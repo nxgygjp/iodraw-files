@@ -79,6 +79,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="8icbts9jGcC6vDq9Krid-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8icbts9jGcC6vDq9Krid-11" target="8icbts9jGcC6vDq9Krid-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8icbts9jGcC6vDq9Krid-11" value="确定工程布置及主要建构筑物" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="658" width="90" height="60" as="geometry" />
         </mxCell>
@@ -90,7 +93,7 @@
             <mxPoint x="100" y="658" as="sourcePoint" />
             <mxPoint x="340" y="658" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="100" y="618" />
+              <mxPoint x="125" y="620" />
               <mxPoint x="220" y="618" />
               <mxPoint x="315" y="618" />
             </Array>
