@@ -59,6 +59,9 @@
             <mxPoint x="270" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="8icbts9jGcC6vDq9Krid-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8icbts9jGcC6vDq9Krid-6" target="8icbts9jGcC6vDq9Krid-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8icbts9jGcC6vDq9Krid-6" value="项目规模、防洪标准" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="540" width="120" height="40" as="geometry" />
         </mxCell>
@@ -110,8 +113,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="8icbts9jGcC6vDq9Krid-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8icbts9jGcC6vDq9Krid-17" target="8icbts9jGcC6vDq9Krid-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8icbts9jGcC6vDq9Krid-17" value="涉河方案编制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="760" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8icbts9jGcC6vDq9Krid-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8icbts9jGcC6vDq9Krid-18" target="8icbts9jGcC6vDq9Krid-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8icbts9jGcC6vDq9Krid-18" value="方案评审修改复核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="840" width="120" height="40" as="geometry" />
