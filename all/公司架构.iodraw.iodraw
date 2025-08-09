@@ -56,6 +56,9 @@
             <mxPoint x="510" y="760" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="z3d5JLifGcsPsgoicGS3-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="z3d5JLifGcsPsgoicGS3-6" target="UlpegEoqLhJEdqMloVSl-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="成都涛之诺企业管理咨询有限责任公司（王涛、罗素云）" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" id="z3d5JLifGcsPsgoicGS3-6">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
             <mxGeometry x="375" y="500" width="180" height="70" as="geometry" />
@@ -91,7 +94,7 @@
             <mxPoint x="465" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z3d5JLifGcsPsgoicGS3-22" value="朱雪琴" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="z3d5JLifGcsPsgoicGS3-22" value="罗素云" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="485" y="420" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z3d5JLifGcsPsgoicGS3-5" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="z3d5JLifGcsPsgoicGS3-3">
