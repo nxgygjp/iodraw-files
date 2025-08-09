@@ -35,7 +35,7 @@
         </object>
         <UserObject label="成都元古代工程管理咨询有限公司" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" id="UlpegEoqLhJEdqMloVSl-7">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="50" y="640" width="180" height="70" as="geometry" />
+            <mxGeometry x="46.5" y="640" width="180" height="70" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="UlpegEoqLhJEdqMloVSl-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="UlpegEoqLhJEdqMloVSl-15" edge="1">
