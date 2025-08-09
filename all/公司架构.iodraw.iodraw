@@ -66,6 +66,12 @@
             <mxGeometry x="647" y="500" width="180" height="70" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="z3d5JLifGcsPsgoicGS3-9" value="王泽文" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="630" y="420" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z3d5JLifGcsPsgoicGS3-10" value="朱雪琴" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="757" y="420" width="70" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="z3d5JLifGcsPsgoicGS3-5" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="z3d5JLifGcsPsgoicGS3-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="280" y="840" as="targetPoint" />
@@ -73,9 +79,6 @@
         </mxCell>
         <mxCell id="z3d5JLifGcsPsgoicGS3-3" value="50%" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="135" y="870" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="z3d5JLifGcsPsgoicGS3-9" value="王泽文" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="550" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
