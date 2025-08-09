@@ -49,7 +49,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="z3d5JLifGcsPsgoicGS3-1" value="50%" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" collapsed="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="555" y="800" width="70" height="30" as="geometry" />
+          <mxGeometry x="555" y="770" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z3d5JLifGcsPsgoicGS3-2" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="z3d5JLifGcsPsgoicGS3-1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry relative="1" as="geometry">
@@ -95,10 +95,6 @@
         <mxCell id="z3d5JLifGcsPsgoicGS3-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="z3d5JLifGcsPsgoicGS3-22">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="465" y="500" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="520" y="490" />
-              <mxPoint x="466" y="490" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="z3d5JLifGcsPsgoicGS3-22" value="罗素云" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
