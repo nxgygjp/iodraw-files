@@ -88,7 +88,7 @@
         <mxCell id="z3d5JLifGcsPsgoicGS3-10" value="朱雪琴" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="757" y="403" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="z3d5JLifGcsPsgoicGS3-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="z3d5JLifGcsPsgoicGS3-20">
+        <mxCell id="z3d5JLifGcsPsgoicGS3-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="z3d5JLifGcsPsgoicGS3-20" target="z3d5JLifGcsPsgoicGS3-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="465" y="483" as="targetPoint" />
           </mxGeometry>
