@@ -28,6 +28,11 @@
             <mxGeometry x="500" y="930" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
+        <UserObject label="四川金诚国信科技有限公司" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" id="UlpegEoqLhJEdqMloVSl-7">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="50" y="640" width="180" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
