@@ -69,6 +69,11 @@
         <mxCell id="z3d5JLifGcsPsgoicGS3-3" value="50%" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="135" y="870" width="70" height="30" as="geometry" />
         </mxCell>
+        <UserObject label="成都文娅航科技有限公司" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" id="z3d5JLifGcsPsgoicGS3-7">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="1">
+            <mxGeometry x="647" y="560" width="180" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
