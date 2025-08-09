@@ -15,7 +15,7 @@
         <mxCell id="dNxyNK7c78bLwvsdeMH5-13" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="四川合利工程咨询有限公司" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" id="dNxyNK7c78bLwvsdeMH5-14">
+        <UserObject label="四川合利工程咨询有限公司（肖益平、谭谦）" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" id="dNxyNK7c78bLwvsdeMH5-14">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
             <mxGeometry x="50" y="930" width="180" height="80" as="geometry" />
           </mxCell>
